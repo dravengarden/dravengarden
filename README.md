@@ -21,7 +21,7 @@ Broad technical interests, continuous learning, and putting knowledge into pract
 ## ⚡ About me
 
 - Curious about technology and enjoy using the right tools to solve the right problems.
-- Interested in developer tools, distributed systems, automation, observability, and thoughtful UX.
+- Enjoy using technology to solve real-world problems.
 
 ## 🛠️ Technologies
 
@@ -42,12 +42,15 @@ Broad technical interests, continuous learning, and putting knowledge into pract
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Argo%20CD-ef7b4d?style=for-the-badge&logoColor=white" alt="Argo CD" />
-  <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logoColor=61dafb" alt="React Native" />
-  <img src="https://img.shields.io/badge/ClickHouse-ffcc01?style=for-the-badge&logoColor=111827" alt="ClickHouse" />
-  <img src="https://img.shields.io/badge/DuckDB-fff000?style=for-the-badge&logoColor=111827" alt="DuckDB" />
-  <img src="https://img.shields.io/badge/Claude%20Code-d97757?style=for-the-badge&logoColor=ffffff" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=ffffff" alt="Codex" />
+  <img src="https://img.shields.io/badge/Argo%20CD-ef7b4d?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb" alt="React Native" />
+  <img src="https://img.shields.io/badge/ClickHouse-ffcc01?style=for-the-badge&logo=clickhouse&logoColor=111827" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/DuckDB-fff000?style=for-the-badge&logo=duckdb&logoColor=111827" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Claude%20Code-d97757?style=for-the-badge&logo=claudecode&logoColor=ffffff" alt="Claude Code" />
+  <a href="https://openai.com/codex">
+    <img src="https://images.ctfassets.net/kftzwdyauwt9/3hUGLn3ypllZ0oa01qOYVq/28e8188e6f11b84c3e876569d492734f/Blossom_Light.svg?q=90&amp;w=32" alt="OpenAI logo" height="24" />
+    <strong>Codex</strong>
+  </a>
 </p>
 
 ## 📚 Currently learning
