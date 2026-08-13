@@ -59,7 +59,6 @@ Broad technical interests, continuous learning, and putting knowledge into pract
 
 ## 📫 Find me
 
-- GitHub: [@dravengarden](https://github.com/dravengarden)
 - Email: [dravengarden@gmail.com](mailto:dravengarden@gmail.com)
 
 <div align="center">
