@@ -29,7 +29,7 @@ Broad technical interests, continuous learning, and putting knowledge into pract
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,dart&perline=6" alt="Rust, Go, Python, TypeScript, JavaScript, and Dart" />
+    <img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,dart,kotlin,swift&perline=8" alt="Rust, Go, Python, TypeScript, JavaScript, Dart, Kotlin, and Swift" />
   </a>
 </p>
 
