@@ -6,16 +6,6 @@
 
 Broad technical interests, continuous learning, and putting knowledge into practice.
 
-<p>
-  <a href="https://github.com/dravengarden?tab=followers">
-    <img src="https://img.shields.io/github/followers/dravengarden?label=Followers&style=flat-square&color=24292f" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/dravengarden?tab=repositories">
-    <img src="https://img.shields.io/github/stars/dravengarden?label=Stars&style=flat-square&color=24292f" alt="GitHub stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=dravengarden&label=Profile%20views&style=flat-square&color=2ea44f" alt="Profile views" />
-</p>
-
 </div>
 
 ## ⚡ About me
