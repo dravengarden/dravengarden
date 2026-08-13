@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="28" viewBox="0 0 168 28" role="img" aria-labelledby="title desc">
+  <title id="title">Argo CD</title>
+  <desc id="desc">Argo CD logo and label.</desc>
+  <rect width="168" height="28" fill="#ef7b4d" />
+
+  <g transform="translate(3 2)">
+    <path d="M1 10.1h2.1a8.9 8.9 0 0 1 17.8 0H23v5.1h-2.1a8.9 8.9 0 0 1-17.8 0H1z" fill="#b8dce8" />
+    <circle cx="12" cy="12" r="9.2" fill="#d9eff5" stroke="#a5ccdd" stroke-width="1" />
+    <path d="M7 11.2c0-3.4 2.3-5.9 5-5.9s5 2.5 5 5.9v7.1H7z" fill="#f26b4f" />
+    <circle cx="9.5" cy="12.2" r="2.35" fill="#fff" />
+    <circle cx="14.5" cy="12.2" r="2.35" fill="#fff" />
+    <circle cx="9.5" cy="12.2" r="0.85" fill="#20242d" />
+    <circle cx="14.5" cy="12.2" r="0.85" fill="#20242d" />
+    <circle cx="9.1" cy="8.1" r="0.72" fill="#fff" fill-opacity="0.85" />
+    <path d="M9.1 16.1c1.8 1.7 4 1.7 5.8 0-0.5 2-1.5 2.8-2.9 2.8s-2.4-0.8-2.9-2.8z" fill="#fff" />
+  </g>
+
+  <text x="37" y="18" fill="#fff" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.6">ARGO CD</text>
+</svg>
