@@ -20,7 +20,7 @@ Broad technical interests, continuous learning, and putting knowledge into pract
 
 ## ⚡ About me
 
-- Full-stack engineer who learns whatever tools a problem demands, rather than treating every problem like a nail because I already have a hammer.
+- Full-stack engineer who learns whatever tools are needed to solve each problem, without limiting myself to what I already know.
 - Enjoy using technology to solve real-world problems.
 
 ## 🛠️ Technologies
