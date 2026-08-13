@@ -53,6 +53,7 @@ Broad technical interests, continuous learning, and putting knowledge into pract
 ## 📚 Currently learning
 
 - Quantitative trading systems
+- Large language models and harness systems
 
 ## 📫 Find me
 
