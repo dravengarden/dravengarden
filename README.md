@@ -4,7 +4,7 @@
 
 # Hi, I'm Draven 👋
 
-Building useful tools and reliable systems with curiosity, clarity, and care.
+Broad technical interests, continuous learning, and putting knowledge into practice.
 
 <p>
   <a href="https://github.com/dravengarden?tab=followers">
@@ -20,26 +20,44 @@ Building useful tools and reliable systems with curiosity, clarity, and care.
 
 ## ⚡ About me
 
-- Interested in developer tools, distributed systems, automation, and thoughtful UX.
-- Always exploring better ways to turn complex systems into calm, useful experiences.
+- Curious about technology and enjoy using the right tools to solve the right problems.
+- Interested in developer tools, distributed systems, automation, observability, and thoughtful UX.
 
 ## 🛠️ Technologies
 
+### Languages I use
+
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,rust,ts,python,bash,postgres,docker,kubernetes,linux,git" alt="Go, Rust, TypeScript, Python, Bash, PostgreSQL, Docker, Kubernetes, Linux, and Git" />
+    <img src="https://skillicons.dev/icons?i=rust,go,python,ts,js,dart&perline=6" alt="Rust, Go, Python, TypeScript, JavaScript, and Dart" />
   </a>
+</p>
+
+### Tools & technologies
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,grafana,prometheus,postgres,nix,tauri,react,flutter&perline=8" alt="Kubernetes, Grafana, Prometheus, PostgreSQL, NixOS, Tauri, React, and Flutter" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Argo%20CD-ef7b4d?style=for-the-badge&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/React%20Native-20232a?style=for-the-badge&logoColor=61dafb" alt="React Native" />
+  <img src="https://img.shields.io/badge/ClickHouse-ffcc01?style=for-the-badge&logoColor=111827" alt="ClickHouse" />
+  <img src="https://img.shields.io/badge/DuckDB-fff000?style=for-the-badge&logoColor=111827" alt="DuckDB" />
+  <img src="https://img.shields.io/badge/Claude%20Code-d97757?style=for-the-badge&logoColor=ffffff" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=ffffff" alt="Codex" />
 </p>
 
 ## 📚 Currently learning
 
-- Systems design and distributed systems
-- Reliable automation and observability
-- Clear technical writing
+- Quantitative trading systems
 
 ## 📫 Find me
 
 - GitHub: [@dravengarden](https://github.com/dravengarden)
+- Email: [dravengarden@gmail.com](mailto:dravengarden@gmail.com)
 
 <div align="center">
 
