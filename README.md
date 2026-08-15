@@ -38,6 +38,8 @@ Broad technical interests, continuous learning, and putting knowledge into pract
   <img src="https://img.shields.io/badge/DuckDB-fff000?style=for-the-badge&logo=duckdb&logoColor=111827" alt="DuckDB" />
   <img src="https://img.shields.io/badge/Claude%20Code-d97757?style=for-the-badge&logo=claudecode&logoColor=ffffff" alt="Claude Code" />
   <img src="./assets/codex-badge.svg" alt="Codex" />
+  <img src="https://img.shields.io/badge/DeepSeek%20Harness-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=ffffff" alt="DeepSeek Harness" />
+  <img src="https://img.shields.io/badge/Grok%20Build-111827?style=for-the-badge" alt="Grok Build" />
 </p>
 
 ## 📚 Currently learning
